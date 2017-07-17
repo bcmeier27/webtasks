@@ -17,9 +17,11 @@ Run the cli as per: https://webtask.io/cli
 > Webtask created  
 >  
 > You can access your webtask at the following url:  
-> https://wt-695374f7aa09f48c840680b953b0ce8e-0.run.webtask.io/webtask-sample2  `
+> https://wt-695374f7aa09f48c840680b953b0ce8e-0.run.webtask.io/webtask-sample2  
 
 That's it!  
+
+*One note of caution: the returned URLs from the sample code may not be correct due to improper URL-rewriting. So that's still TBD, but probably won't get done.*
 
 Cheers,  
 #b
