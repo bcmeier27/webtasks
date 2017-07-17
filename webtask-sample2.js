@@ -25,7 +25,8 @@ app.use(function(req, res, next) {
 // see NOTE: above
 app.use(bodyParser.json());
 
-
+// One note of caution: the returned URLs from the sample code may not be correct due to improper URL-rewriting. 
+// So that's still TBD, but probably won't get done.
 function trySomething (req, res) {
   res.write("Try something like 'https://" + req.host + (req.port ? (":" + req.port) : "") + req.originalUrl + "/test?name=Alice[&debug[=true]]' to see what happens.\n");
   if (_dbug) res.write(dbug("\nThis is what the parsed URL contains: " + JSON.stringify(urlLib.parse(req.originalUrl))));
