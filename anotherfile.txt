@@ -1,0 +1,5 @@
+total 9
+-rw-r--r-- 1 Bernie 197121    0 Sep 21 00:16 anotherfile.txt
+-rw-r--r-- 1 Bernie 197121  922 Sep 21 00:00 README.md
+-rw-r--r-- 1 Bernie 197121   31 Sep 21 00:00 somefile.txt
+-rw-r--r-- 1 Bernie 197121 2458 Sep 21 00:00 webtask-sample2.js
