@@ -1,0 +1,90 @@
+    1  pwd
+    2  node
+    3  node
+    4  exit
+    5  pwd
+    6  gunzip tanks.wasm.code.unityweb.gzip 
+    7  gunzip tanks.wasm.code.unityweb.gzip ./tanks
+    8  gunzip tanks.wasm.code.unityweb.gz
+    9  ls
+   10  ll
+   11  ll
+   12  gunzip tanks.data.unityweb.gz 
+   13  pwd
+   14  ls
+   15  cd /d/Users/Bernie/
+   16  ls
+   17  mkdir -p Projects/test1.js/
+   18  ls
+   19  node
+   20  node
+   21  which sublime
+   22  exit
+   23  git
+   24  git add
+   25  pwd
+   26  cd ..
+   27  ls
+   28  cd lmcmeir/
+   29  ls
+   30  cd Documents/My\ Webs/home/my_links
+   31  ls
+   32  exit
+   33  pwd
+   34  ls
+   35  git clone https://github.com/bcmeier27/webtasks.git
+   36  ls
+   37  cd webtasks/
+   38  ls
+   39  echo > somefile.txt
+   40  ls
+   41  cat somefile.txt 
+   42  date
+   43  date >> somefile.txt 
+   44  ls
+   45  cat somefile.txt 
+   46  ll
+   47  git status
+   48  git status
+   49  git add somefile.txt 
+   50  git commit
+   51  git commit https://github.com/bcmeier27/webtasks.git
+   52  git commit
+   53  git status
+   54  git config
+   55  git config --global user.email "berniemeier@gmail.com"
+   56  git config --global user.name "bcmeier27"
+   57  git commit
+   58  git commit -m "Adding a test file"
+   59  git push
+   60  git push
+   61  git status
+   62  git branch
+   63  git branch -c
+   64  git branch -a
+   65  git branch --list
+   66  git branch test1
+   67  git branch
+   68  git branch -a
+   69  git status
+   70  ls
+   71  git
+   72  git branch
+   73  git branch --help
+   74  git checkout test1
+   75  ls
+   76  touch anotherfile.txt
+   77  ls
+   78  ll >> anotherfile.txt 
+   79  ll
+   80  ls
+   81  cat anotherfile.txt 
+   82  pwd
+   83  git branch
+   84  git branch test2
+   85  git checkout test2
+   86  git list
+   87  git branch -a
+   88  ls
+   89  history > history.txt
+Thu, Sep 21, 2017 12:24:38 AM
