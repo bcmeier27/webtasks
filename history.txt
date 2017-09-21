@@ -1,0 +1,178 @@
+    1  pwd
+    2  node
+    3  node
+    4  exit
+    5  pwd
+    6  gunzip tanks.wasm.code.unityweb.gzip 
+    7  gunzip tanks.wasm.code.unityweb.gzip ./tanks
+    8  gunzip tanks.wasm.code.unityweb.gz
+    9  ls
+   10  ll
+   11  ll
+   12  gunzip tanks.data.unityweb.gz 
+   13  pwd
+   14  ls
+   15  cd /d/Users/Bernie/
+   16  ls
+   17  mkdir -p Projects/test1.js/
+   18  ls
+   19  node
+   20  node
+   21  which sublime
+   22  exit
+   23  git
+   24  git add
+   25  pwd
+   26  cd ..
+   27  ls
+   28  cd lmcmeir/
+   29  ls
+   30  cd Documents/My\ Webs/home/my_links
+   31  ls
+   32  exit
+   33  pwd
+   34  ls
+   35  git clone https://github.com/bcmeier27/webtasks.git
+   36  ls
+   37  cd webtasks/
+   38  ls
+   39  echo > somefile.txt
+   40  ls
+   41  cat somefile.txt 
+   42  date
+   43  date >> somefile.txt 
+   44  ls
+   45  cat somefile.txt 
+   46  ll
+   47  git status
+   48  git status
+   49  git add somefile.txt 
+   50  git commit
+   51  git commit https://github.com/bcmeier27/webtasks.git
+   52  git commit
+   53  git status
+   54  git config
+   55  git config --global user.email "berniemeier@gmail.com"
+   56  git config --global user.name "bcmeier27"
+   57  git commit
+   58  git commit -m "Adding a test file"
+   59  git push
+   60  git push
+   61  git status
+   62  git branch
+   63  git branch -c
+   64  git branch -a
+   65  git branch --list
+   66  git branch test1
+   67  git branch
+   68  git branch -a
+   69  git status
+   70  ls
+   71  git
+   72  git branch
+   73  git branch --help
+   74  git checkout test1
+   75  ls
+   76  touch anotherfile.txt
+   77  ls
+   78  ll >> anotherfile.txt 
+   79  ll
+   80  ls
+   81  cat anotherfile.txt 
+   82  pwd
+   83  git branch
+   84  git branch test2
+   85  git checkout test2
+   86  git list
+   87  git branch -a
+   88  ls
+   89  history > history.txt
+   90  ls
+   91  git commit
+   92  git add history.txt 
+   93  git commit
+   94  git commit -m "added a history"
+   95  git push
+   96  git push --set-upstream origin test2
+   97  ls
+   98  git status
+   99  git checkout test1
+  100  git status
+  101  git add anotherfile.txt 
+  102  git commit -m "added another file"
+  103  git push
+  104  git push --set-upstream origin test1
+  105  cd ..
+  106  cd webtasks/
+  107  ls
+  108  git status
+  109  git checkout master
+  110  git status
+  111  ls
+  112  ls 0a
+  113  ls -a
+  114  ls .git/
+  115  ls
+  116  git branch -a
+  117  git checkout test2
+  118  ls
+  119  git checkout test1
+  120  ls
+  121  git status
+  122  ls
+  123  date >> somefile.txt 
+  124  git commit
+  125  git commit -m "added date to somefile"
+  126  tail somefile.txt 
+  127  ls
+  128  git push
+  129  ls
+  130  git status
+  131  git add somefile.txt 
+  132  git commit -m "added date to somefile"
+  133  git push
+  134  git checkout test 2
+  135  git checkout test2
+  136  ls
+  137  date >> history.txt 
+  138  git add history.txt 
+  139  git commit -m "added date to history"
+  140  git push
+  141  git checkout master
+  142  ls
+  143  cat somefile.txt 
+  144  echo "conflict here!" >> somefile.txt 
+  145  git status
+  146  git add somefile.txt 
+  147  git commit somefile.txt 
+  148  git push
+  149  git sta
+  150  git status
+  151  git status
+  152  git branch -a
+  153  git rebase 
+  154  ls
+  155  ll
+  156  git 
+  157  git log
+  158  git info
+  159  git status 
+  160  git diff
+  161  git diff -a
+  162  git clone
+  163  git
+  164  git show
+  165  git branch -a
+  166  git checkout
+  167  ls
+  168  git reset
+  169  ls
+  170  ll
+  171  git pull 
+  172  ls
+  173  ll
+  174  git status
+  175  ls
+  176  git checkout test1
+  177  ls
+  178  history >> history.txt
