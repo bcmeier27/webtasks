@@ -87,6 +87,7 @@
    87  git branch -a
    88  ls
    89  history > history.txt
+<<<<<<< HEAD
    90  ls
    91  git commit
    92  git add history.txt 
@@ -176,3 +177,6 @@
   176  git checkout test1
   177  ls
   178  history >> history.txt
+=======
+Thu, Sep 21, 2017 12:24:38 AM
+>>>>>>> refs/remotes/origin/test1
